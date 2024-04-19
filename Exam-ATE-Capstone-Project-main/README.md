@@ -1,7 +1,6 @@
 Automation Testing Capstone Project
 Create a Testing Framework for Sporty Shoes Website
 Name : Aditi De
-Email : adide@cisco.com
 Github Link: https://github.com/coder-aditi/Exam-ATE-Capstone-Project-main
 
 Problem Statement and Motivation Real-Time Scenario:
